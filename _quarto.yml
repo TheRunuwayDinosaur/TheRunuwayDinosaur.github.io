@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs  
+website:
+  title: "Главная страница"
+  navbar:
+    right:
+      - about.qmd
+      - icon: radioactive
+        href: https://en.cppreference.com/w/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Все самые свежие новости только у нас!",
+    "section": "",
+    "text": "НОВОСТИ С PHDAYS!!!!!\n\n\n\n\n\n\n\nanalysis\n\n\ncybersecurity\n\n\n\n\n\n\n\n\n\n\n\nMay 20, 2023\n\n\nИнкогнито\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Нуя",
+    "section": "",
+    "text": "Информация обо мне не будет, я стесняюсь :D"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/phdays/index.html",
+    "href": "posts/phdays/index.html",
+    "title": "НОВОСТИ С PHDAYS!!!!!",
+    "section": "",
+    "text": "19-20 мая в Москве прошел 12-й фестиваль по кибербезопасности PHDays 2023, который собрал более 18 000 участников из разных регионов России. На мероприятии обсуждались наиболее актуальные вопросы кибербезопасности в России и мире. Также были представлены российские решения в области информационной безопасности и высказаны предположения о дальнейшем развитии этой отрасли в нашей стране. Одним из главных событий фестиваля стала кибербитва Standoff, где «белые» хакеры пытались взломать специально подготовленный полигон, имитирующий инфраструктуру цифровой страны. В свою очередь, команды защитников должны были вовремя обнаружить и предотвратить вторжение в инфраструктуру. Посещение подобных мероприятий способствует развитию и укреплению деловых связей между специалистами информационной безопасности России, а также положительно влияет на развитие кибербезопасности и популяризацию кибергигиены в стране."
+  }
+]

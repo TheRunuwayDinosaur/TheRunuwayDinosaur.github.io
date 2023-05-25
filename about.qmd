@@ -1,0 +1,8 @@
+---
+title: "Нуя"
+image: memes2.png
+about:
+  template: jolla
+
+---
+Информация обо мне не будет, я стесняюсь :D
